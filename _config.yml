@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "youyc22"
 title_separator          : "-"
 name                     : &name "Yichen You"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "girl1.png"
   name             : "Yichen You"
-  pronouns         : "they/them" 
+  pronouns         : "he/him" # e.g. "he/him", "she/her", "they/them" 
   bio              : "Interested in Efficient DL and reasoning"
   location         : "Beijing,China" # e.g. "New York, USA"
   employer         : "Tsinghua University"
