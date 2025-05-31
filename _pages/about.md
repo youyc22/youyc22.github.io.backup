@@ -28,10 +28,10 @@ Selected Awards/Honors
   [8th Loongson Cup (Individual)](https://github.com/youyc22/NSCSCC-2024) (Aug 2024)
 
 
-### 🎓 Scholarships & Academic Honors
-* **National Scholarship** 
+### 🎓 Scholarships
+* **National Scholarship**   
   (Comprehensive Excellence) (Oct 2023)
-* **Dai Yusen Innovation Scholarship** 
+* **Dai Yusen Innovation Scholarship**   
   (Comprehensive Excellence) (Oct 2024)
 
 ### 🌟 Service & Engagement
@@ -84,4 +84,3 @@ Interesting Projects
 * **2048 Advanced Version**
   - [video demo](https://www.bilibili.com/video/BV15k4y1a79S/?buvid=XU79E427CC18495329BD3B87F1BE15AB876AA&from_spmid=main.space.0.0&is_story_h5=false&mid=FrQwjFoHdeLGOc8Z%2FV3wbA%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=6668f37e-1caf-431b-ba6b-e087e95eb7c7&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1748703250&unique_k=KZ4qQiG&up_id=398884791)
   - [github repository](https://github.com/youyc22/EESDC6-2048-Advanced-Version)
-
