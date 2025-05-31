@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-- 🌱 I’m Yichen You(尤忆晨), an undergraduate student at Tsinghua University.
-- 🔭 I’m interested in Efficient DL and Reasoning.
+- 🌱 I'm **Yichen You (尤忆晨)**, an undergraduate student at Tsinghua University.
+- 🔬 My research interests focus on **Efficient Deep Learning** and **Reasoning**.
+- 🎓 Education:
+  - Current: Undergraduate at Tsinghua University
+  - Previous: The Middle School Attached to Northwestern Polytechnical University
+- 🏠 Originally from Pucheng, Shaanxi (Born: December 15, 2003)
 
 Selected Awards/Honors
 ======
 ### 🏆 Competitions
-* **2nd Place** (Top 0.09% of 2212 Teams)  
+* **2nd Place Worldwide** (Top 0.09% of 2212 Teams)  
   [AI Mathematical Olympiad 2](https://github.com/imagination-research/aimo2)  
   *Authors: **Yichen You**, Xuefei Ning, Zinan Lin* (Apr 2025)
 * **University 1st Prize, PCB Award** (Team Leader)  
@@ -29,6 +33,8 @@ Selected Awards/Honors
 * **Dai Yusen Innovation Scholarship** (Comprehensive Excellence) (Oct 2024)
 
 ### 🌟 Service & Engagement
+* **Four-Star Volunteer**
+  Tsinghua University (May 2024)
 * **Five-Star Volunteer**  
   Tsinghua University (May 2025)
 * **Best Poster Award**  
@@ -62,4 +68,18 @@ Experience
   - Department of Electronic Engineering Software Division (September 2023 -- June 2024)
   - Participated in the development/upgrade of nearly 10 web pages including ladder system, data analysis, admin panel, and course evaluation system
 
+Interesting Projects
+======
+
+* **Multifunctional Bluetooth Gloves**
+  - [video demo](https://www.bilibili.com/video/BV15vhNeVEf2/?buvid=XX7FEF57B71126598F841306849E8549C78A2&from_spmid=main.space.0.0&is_story_h5=false&mid=FrQwjFoHdeLGOc8Z%2FV3wbA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=7cc36755-9967-4eba-b0ea-abf7133892b8&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1719925916&unique_k=aUT48rB&up_id=398884791)
+  - [github repository](https://github.com/youyc22/Multifunctional)
+
+* **ChatYYC**
+  - [Try Now](https://youyc22.github.io/ChatYYC/)
+  - [github repository](https://github.com/youyc22/ChatYYC)
+
+* **2048 Advanced Version**
+  - [video demo](https://www.bilibili.com/video/BV15k4y1a79S/?buvid=XU79E427CC18495329BD3B87F1BE15AB876AA&from_spmid=main.space.0.0&is_story_h5=false&mid=FrQwjFoHdeLGOc8Z%2FV3wbA%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=6668f37e-1caf-431b-ba6b-e087e95eb7c7&share_source=WEIXIN&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1748703250&unique_k=KZ4qQiG&up_id=398884791)
+  - [github repository](https://github.com/youyc22/EESDC6-2048-Advanced-Version)
 
