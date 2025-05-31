@@ -64,7 +64,7 @@ Experience
 
 * **Website Team Vice Director(副部长)** 
   - Department of Electronic Engineering Software Division (June 2024 -- June 2025)
-  - [Leading frontend development of department website](https://github.com/eesast/web/graphs/contributors), mentoring members in React, TypeScript, and other frontend technologies
+  - [Leading frontend development of department website](https://github.com/eesast/web/commits?author=youyc22), mentoring members in React, TypeScript, and other frontend technologies
 
 * **Website Team Member(网站组成员)** 
   - Department of Electronic Engineering Software Division (September 2023 -- June 2024)
