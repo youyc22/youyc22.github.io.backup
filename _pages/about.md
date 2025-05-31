@@ -29,11 +29,13 @@ Selected Awards/Honors
 
 
 ### 🎓 Scholarships & Academic Honors
-* **National Scholarship** (Comprehensive Excellence) (Oct 2023)
-* **Dai Yusen Innovation Scholarship** (Comprehensive Excellence) (Oct 2024)
+* **National Scholarship** 
+  (Comprehensive Excellence) (Oct 2023)
+* **Dai Yusen Innovation Scholarship** 
+  (Comprehensive Excellence) (Oct 2024)
 
 ### 🌟 Service & Engagement
-* **Four-Star Volunteer**
+* **Four-Star Volunteer**  
   Tsinghua University (May 2024)
 * **Five-Star Volunteer**  
   Tsinghua University (May 2025)
