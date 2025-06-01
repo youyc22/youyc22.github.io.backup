@@ -20,10 +20,10 @@ redirect_from:
 Selected Awards/Honors
 ======
 ### 🏆 Competitions
-* **Global 2nd Place** (of 2212 Teams) [AI Mathematical Olympiad 2](https://github.com/imagination-research/aimo2) `2025.04`
+* **Global 2nd Place** (of 2212 Teams) [AI Mathematical Olympiad - Progress Prize 2](https://github.com/imagination-research/aimo2) `2025.04`
   - *Authors: **Yichen You**, Xuefei Ning, Zinan Lin* 
-* **National 3rd Prize** [8th Loongson Cup (Individual)](https://github.com/youyc22/NSCSCC-2024) `2024.08`
-  - *Individual Competition MIPS Track*
+* **National 3rd Prize** [8th Loongson Cup](https://github.com/youyc22/NSCSCC-2024) `2024.08`
+  - *Individual (MIPS Track)*
 * **University 1st Prize, PCB Award** [26th Hardware Design Competition](https://github.com/youyc22/Multifunctional) `2023.09`
   - *Team Leader*
 * **University 2nd Prize** [Huiye Cup 6th Software Design](https://github.com/youyc22/EESDC6-2048-Advanced-Version) `2023.04`
