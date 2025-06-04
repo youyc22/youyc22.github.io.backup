@@ -12,11 +12,11 @@ redirect_from:
 - 🌱 I'm **Yichen You (尤忆晨)**, an undergraduate student at Tsinghua University.
 - 🌟 Interests:
   - Academic: Efficient Deep Learning, Reasoning
-  - Personal: Movies, Badminton, Cycling
+  - Personal:🎬Movies, 🏸Badminton, 🚲Cycling
 - 🎓 Education:
-  - Current: Undergraduate at Tsinghua University
+  - Current: Undergraduate at Tsinghua University (2022.09 - Now)
   - Previous: The Middle School Attached to Northwestern Polytechnical University
-- 🏠 Originally from Pucheng, Shaanxi (Born: December 15, 2003)
+- 🏠 Originally from Pucheng, Shaanxi (Born: 2003.12.15)
 
 ---
 
