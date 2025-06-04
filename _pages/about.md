@@ -16,6 +16,7 @@ redirect_from:
   - Current: Undergraduate at Tsinghua University (2022.09 - Now)
   - Previous: The Middle School Attached to Northwestern Polytechnical University
 - 🏠 Originally from Pucheng, Shaanxi (Born: 2003.12.15)
+
 ---
 
 Selected Awards/Honors
