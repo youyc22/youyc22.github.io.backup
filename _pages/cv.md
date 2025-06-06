@@ -32,8 +32,6 @@ Selected Awards/Honors
 * **University 2nd Prize** [Huiye Cup 6th Software Design Competition](https://github.com/youyc22/EESDC6-2048-Advanced-Version) `2023.04` 
   - Team Leader - 📰 [News](https://mp.weixin.qq.com/s/otvZaQZ0x-VxUVQKZWPpxg)
 
-
-
 ## 🎓 Scholarships
 * **Dai Yusen Innovation Scholarship** (Comprehensive Excellence) `2024.10`
 * **National Scholarship** (Comprehensive Excellence) `2023.10`
@@ -41,7 +39,7 @@ Selected Awards/Honors
 ## 🌟 Service & Engagement
 * **Five-Star Volunteer** Tsinghua University `2025.05`
 * **Best Poster Award** Southeast Asia Sustainable Development Innovation Forum `2024.06`
-* **Four-Star Volunteer** Tsinghua University `2024.05`
+<!-- * **Four-Star Volunteer** Tsinghua University `2024.05` -->
 * **Department 1st Prize** (Team Member) "E Together to the Future" Baotou Microcontroller Teaching `2024.02`
 * **Department Silver, University Bronze** (Team Member) "Clear Water of Canglang" Alumni Connection Practice `2023.06`
 
@@ -62,7 +60,7 @@ Publications
 <sup>†</sup>: Equal Contribution
 
 ---
-
+<!-- 
 Experience
 ======
 * **Website Team Vice Director (网站组副部长)** 
@@ -71,9 +69,9 @@ Experience
 
 * **Website Team Member (网站组部员)** 
   - Department of Electronic Engineering Software Division `2023.06-2024.06`
-  <!-- - Participated in the development/upgrade of nearly 10 web pages including arena system, data analysis, admin panel, and course evaluation system -->
+  <!-- - Participated in the development/upgrade of nearly 10 web pages including arena system, data analysis, admin panel, and course evaluation system
 
----
+--- -->
 
 Interesting Projects
 ======
