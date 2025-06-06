@@ -35,7 +35,7 @@ Selected Awards/Honors
 * **Dai Yusen Innovation Scholarship** (Comprehensive Excellence) `2024.10`
 * **National Scholarship** (Comprehensive Excellence) `2023.10`
 
-## 🌟 Service & Engagement
+## 🌟 Others
 * **Five-Star Volunteer** Tsinghua University `2025.05`
 * **Best Poster Award** Southeast Asia Sustainable Development Innovation Forum `2024.06`
 <!-- * **Four-Star Volunteer** Tsinghua University `2024.05` -->
