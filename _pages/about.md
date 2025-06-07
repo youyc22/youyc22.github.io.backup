@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+👀 Views: <span id="busuanzi_value_site_pv"></span> / 👥 Visitors: <span id="busuanzi_value_site_uv"></span>
+
 - 🌱 I'm **Yichen You (尤忆晨)**, an undergraduate student at Tsinghua University.
 - 🌟 Interests:
   - Academic: Efficient Deep Learning, Reasoning
