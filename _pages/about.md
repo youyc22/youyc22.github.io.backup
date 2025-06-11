@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /cv/
 ---
 
 <!-- 👀 Views: <span id="busuanzi_value_site_pv"></span> / 👥 Visitors: <span id="busuanzi_value_site_uv"></span> -->
