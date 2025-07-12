@@ -13,7 +13,7 @@ title                    : "youyc22"
 title_separator          : "-"
 name                     : &name "Yichen You"
 description              : &description "personal description"
-url                      : # Leave empty to support multiple domains with relative paths
+url                      : "https://youyc22.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youyc22/youyc22.github.io"
 
