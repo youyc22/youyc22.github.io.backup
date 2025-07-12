@@ -13,6 +13,16 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+  // Multi-domain support: ensure CSS loads correctly from any domain
+  (function() {
+    var basePath = '{{ base_path }}';
+    if (!basePath || basePath === '') {
+      basePath = '';
+    }
+    // Store base path for any dynamic resource loading
+    window.sitePath = basePath;
+  })();
 </script>
 
 <!-- For all browsers -->
