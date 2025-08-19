@@ -13,9 +13,9 @@ title                    : "youyc22"
 title_separator          : "-"
 name                     : &name "Yichen You"
 description              : &description "personal description"
-url                      : "https://youyc22.com"
+url                      : "https://youyc22.com/homepage_backup"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "youyc22/youyc22.github.io"
+repository               : "youyc22/homepage_backup"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
